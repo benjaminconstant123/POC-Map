@@ -1,4 +1,3 @@
-/* Assure-toi que les parents occupent tout l'écran */
 #root, body, html {
   height: 100%;
   margin: 0;
