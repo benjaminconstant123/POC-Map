@@ -1,0 +1,11 @@
+/* Assure-toi que les parents occupent tout l'écran */
+#root, body, html {
+  height: 100%;
+  margin: 0;
+}
+
+/* Donne une taille explicite à la carte */
+.leaflet-container {
+  height: 100vh; /* Toute la hauteur de l'écran */
+  width: 100%;
+}
